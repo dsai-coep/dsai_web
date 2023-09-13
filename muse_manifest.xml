@@ -1,0 +1,84 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dsai.com" resolutions="1x" timestamp="1578908878387">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4068680247" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3923122984" seo="true" mt="1576920921549" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="49775291"/>
+    <file name="index.css" crc="72712201" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="aurangabad.html" crc="74088280" seo="true" mt="1565882041000"/>
+    <file name="pune.html" crc="306257358" seo="true" mt="1565881501000"/>
+    <file name="index.html" crc="352873958" seo="true" mt="1577164374000"/>
+    <file name="index1.html" crc="352873958" seo="true" mt="1577164374000"/>
+    <file name="index2.html" crc="4058822847" seo="true" mt="1578848776000"/>
+    <file name="index12.html" crc="352873958" seo="true" mt="1578677099000"/>
+    <file name="index3.html" crc="4186416605" seo="true" mt="1578848776000"/>
+    <file name="index2018.html" crc="3839172190" seo="true" mt="1578908548000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:phone>index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1245-5.png" crc="142834897" ref="index"/>
+    <file name="u1297-11.png" crc="76663982" ref="index"/>
+    <file name="u1348-5.png" crc="347881717" ref="index"/>
+    <file name="u1359-15.png" crc="127630411" ref="index"/>
+    <file name="coep_new_logo.png" crc="293259030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="u933-4.png" crc="484013608" ref="index"/>
+    <file name="asset 5.png" crc="3880017282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2.png" crc="250486041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1.png" crc="342329265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="174857.png" crc="3823994611" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f_logo_rgb-hex-blue_512.png" crc="162983934" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-instagram-logo-png-transparent-light.png" crc="3775903162" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2369-4.png" crc="134903610" ref="phone>index"/>
+    <file name="coep_new_logo white.png" crc="262344117" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="88246532x379.jpg" crc="4084332989" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2379-11.png" crc="485099213" ref="phone>index"/>
+    <file name="u2414-16.png" crc="440526453" ref="phone>index"/>
+    <file name="u2397-5.png" crc="4278068363" ref="phone>index"/>
+    <file name="u2407-4.png" crc="216306830" ref="phone>index"/>
+    <file name="88246.jpg" crc="3903598742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u920_states.png" crc="183836839" ref="index"/>
+    <file name="u920_states-r.png" crc="449122524" ref="index"/>
+    <file name="u926_states.png" crc="493358800" ref="index"/>
+    <file name="u926_states-r.png" crc="3924639740" ref="index"/>
+    <file name="u914-5-a.png" crc="4008918063" ref="index"/>
+    <file name="u2271_states.png" crc="433658575" ref="index"/>
+    <file name="u2271_states-r.png" crc="3837933323" ref="index"/>
+    <file name="u923_states.png" crc="161076497" ref="index"/>
+    <file name="u923_states-r.png" crc="446042301" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4126305256" seo="true" mt="1578908772917" redirect="true"/>
+</manifest>

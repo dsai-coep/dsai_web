@@ -1,0 +1,23 @@
+Things to Do
+------------
+1) Make navbar
+2) Make it responsive
+3) In Team, no need to consume so much space, reduce the space usage and make it easier to collapse and locate
+people
+- Stink Studio
+- Categorize according to area of interest
+- Keep filters
+- Horizontal scroll?
+- Digital Marmalade
+- gif on hover / some concept related to DSAI
+4) In events, later can add backend for adminstrator to upload event details in a a systematic way
+5) Keep a consistent theme
+6) Change logos
+7) Photo Gallery needs better organization
+8) Events page - Outlook Festival
+
+Green/Black underline above Come hear us at in Black
+GitHub and Blog
+
+Ensure dsai logo on every page
+Put it in Navbar and Footer

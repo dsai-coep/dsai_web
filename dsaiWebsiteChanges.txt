@@ -1,0 +1,16 @@
+1) COEP Tech in Home - Bold
+2) Remove Gray bg on title
+Remove hr
+Icons of GH and DSAI as buttons
+Border
+3) Interactive bg on Eventss
+4) On Hover anim size in Team
+5) Typewriter effect
+Members and ex-core/Alumni
+6) Resources page - hidden
+7) Make links active
+8) Photo Gallery - Dropdown
+Title and dropdown
+9) Events reduce image size
+
+1) Remove footer
