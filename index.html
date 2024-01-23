@@ -52,13 +52,19 @@
    <!-- <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css"> -->
    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css" integrity="sha384-X8QTME3FCg1DLb58++lPvsjbQoCT9bp3MsUU3grbIny/3ZwUJkRNO8NPW6zqzuW9" crossorigin="anonymous"> -->
     <link rel="icon" type="image/x-icon" href="logos/DSAI.jpeg">
+    <style>
+       body
+       {
+          overflow-x: hidden;
+       }
+    </style>
    </head>
 
 <body>
    <!-- <header-comp></header-comp> -->
    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="https://www.coep.org.in"><img class="navbar-img" src="./logos/CoEP.png"></img><img class="navbar-img" src="./logos/DSAI.jpeg"></img></a>
+        <a class="navbar-brand" href="#"><img class="navbar-img" src="./logos/DSAI.jpeg"></img></a><a class="navbar-brand" href="www.coep.org.in"><img class="navbar-img" src="./logos/CoEP.png"></img></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -71,7 +77,7 @@
               <a class="nav-link" href="team2.html">Team</a>
             </li>
             <li class="nav-item" id="events">
-               <a class="nav-link" href="events2021.html">Events</a>
+               <a class="nav-link" href="events2023.html">Events</a>
              </li>
              <li class="nav-item" id="work">
                <a class="nav-link" href="work.html">Work</a>
@@ -150,7 +156,25 @@
          </div>
       </div>
    </div>
-   <footer-comp class="footer"></footer-comp>
+   <!-- <footer-comp class="footer"></footer-comp> -->
+   <footer class="navbar navbar-expand-lg navbar-light bg-transparent fixed-bottom">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="footerSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="https://www.linkedin.com/company/dsaicoep/"><img class="footer-img" src="images/linkedin.png" alt="LinkedIn"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.facebook.com/dsaicoep/"><img class="footer-img" src="images/facebook.png" alt="Facebook"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.instagram.com/dsai_coep/"><img class="footer-img" src="images/instagram.png" alt="Instagram"></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    
 
    <!-- JS includes -->
    <script>
